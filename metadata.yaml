@@ -1,0 +1,28 @@
+_repo: The-Anglo-Egyptian-Sudan-a-compendium-prepared-by-officers-of-the-Sudan-government-Vol-2-of-2_74585
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Gleichen, (Lord) Edward
+    gutenberg_agent_id: '57565'
+    url: http://www.gutenberg.org/2009/agents/57565
+description: ''
+gutenberg_issued: '2024-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74585'
+language: en
+pgterms:marc904: https://archive.org/details/angloegyptiansud01gleiuoft
+pgterms:marc905: 20240825230347gleichen
+pgterms:marc906: '1905'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive/University of Pretoria)
+publication_note: '  $aLondon :$bHis Majesty''s Stationery Office, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Anglo-Egyptian Sudan: a compendium prepared by officers of the Sudan government,
+  Vol. 2 (of 2)'
+url: http://www.gutenberg.org/ebooks/74585
