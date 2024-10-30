@@ -1,11 +1,16 @@
 _repo: The-Anglo-Egyptian-Sudan-a-compendium-prepared-by-officers-of-the-Sudan-government-Vol-2-of-2_74585
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74585-h/images/cover.jpg
 creator:
   editor:
     agent_name: Gleichen, (Lord) Edward
     gutenberg_agent_id: '57565'
     url: http://www.gutenberg.org/2009/agents/57565
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74585#The-Anglo-Egyptian-Sudan-a-compendium-prepared-by-officers-of-the-Sudan-government-Vol-2-of-2
 gutenberg_issued: '2024-10-15'
 gutenberg_type: Text
 identifiers:
